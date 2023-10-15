@@ -1,4 +1,4 @@
-![image](https://github.com/preetyonline/interview-challenges/assets/27806189/64bafd8b-aed6-4250-b19b-7c2ae17d1ff2)# interview-challenges
+# interview-challenges
 This repository contains the answers to the challenges.
 
 # interview-challenges
